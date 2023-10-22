@@ -88,7 +88,6 @@ footer {
   color: #cbcbcb;
   padding: 10px;
   border: 0;
-  filter: blur(2px);
 }
 
 .p-footer {
@@ -101,24 +100,4 @@ footer {
   margin-right: 80px;
   color: #1c89ff;
   text-decoration: none;
-}
-
-
-@media (max-width: 768px) {
-  body {
-    justify-content: flex-start;
-    padding: 20px;
-  }
-  .pop-up {
-    top: 10%;
-  }
-
-  #search-form {
-    margin-bottom: 30px;
-  }
-
-  #search-input {
-    width: 100%;
-    margin-right: 0;
-  }
 }

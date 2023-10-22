@@ -2,4 +2,4 @@
 All News in one place.
 
 
-#ONLY FOR SLOVAKIA
+# ONLY FOR SLOVAKIA

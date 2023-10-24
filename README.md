@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://ibb.co/b2Sz3vR" alt="Ae-News" width="200">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/CMkht9s/AE-News.jpg" alt="AE-News" border="0" /></a>
   <br>
   Ae-News
   <br>

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/CMkht9s/AE-News.jpg" alt="AE-News" border="0" /></a>
+    <a href="https://ibb.co/Yj7V7Kc"><img src="https://i.ibb.co/s3vXvDK/Ae-News.jpg" alt="Ae-News" border="0" /></a>
   <br>
   Ae-News
   <br>
@@ -15,8 +15,9 @@
   <a href="#license">License</a>
 </p>
 
+<span> ScreenShot Soon
 ![screenshot](https://yourdomain.com/ae-news-screenshot.png)
-
+</span>
 ## Key Features
 - **World News Dashboard:** Ae-News offers a unique dashboard where you can keep track of the latest news and updates from a variety of sources. This dashboard allows you to stay up-to-date with what's happening in the world without having to browse multiple news websites.
 

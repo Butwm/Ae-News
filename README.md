@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-<a href="https://ibb.co/Yj7V7Kc"><img src="https://i.ibb.co/s3vXvDK/Ae-News.jpg" alt="Ae-News" border="0" /></a>
-  <br>
   Ae-News
   <br>
 </h1>

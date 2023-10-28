@@ -1,9 +1,5 @@
 <h1 align="center">
-  <img src=".github/Group-39.png">
-</h1>
-<h1 align="center">
-  Ae-News
-  <br>
+  <img src=".github/Group-39.png" style="display: block; margin: 0 auto;">
 </h1>
 
 <h4 align="center">Your All-in-One News and Weather Dashboard</h4>

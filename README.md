@@ -25,7 +25,7 @@
 ## Launching the Project
 Currently, I don't know when the launch will be, but I estimate it for the end of November.
 
-### We will be using the API from <a href="https://www.newscatcherapi.com/">Newscatcher</a> (Thanks for contributing)
+**We will be using the API from <a href="https://www.newscatcherapi.com/">Newscatcher</a> (Thanks for contributing)**
 
 ## Contributing
 If you have ideas to improve the Ae-News project, feel free to open a new "Issue" or send a "Pull Request." We look forward to your contributions and cooperation.

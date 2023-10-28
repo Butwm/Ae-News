@@ -30,4 +30,4 @@ Currently, I don't know when the launch will be, but I estimate it for the end o
 If you have ideas to improve the Ae-News project, feel free to open a new "Issue" or send a "Pull Request." We look forward to your contributions and cooperation.
 
 ## License
-This project is licensed under the GNU General Public License (GPL).
+This project is not open-source. 

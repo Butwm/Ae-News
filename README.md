@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="text-align: center;">
   <img src=".github/Group-39.png" style="display: block; margin: 0 auto;">
 </h1>
 

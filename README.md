@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img src="./.github/group-39.png">
-  Ae-News
-  <br>
-</h1>
+<p align="center">
+  <img src=".github/ae-news-logo.png">
+</p>
 
 <h4 align="center">Your All-in-One News and Weather Dashboard</h4>
 

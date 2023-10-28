@@ -1,6 +1,6 @@
-<h1 align="center" style="text-align: center;">
-  <img src=".github/Group-39.png" style="display: block; margin: 0 auto; align-items: center;">
-</h1>
+<div style="text-align: center;">
+  <img src=".github/Group-39.png" style="display: block; margin: 0 auto;">
+</div>
 
 <h4 align="center">Your All-in-One News and Weather Dashboard</h4>
 

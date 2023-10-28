@@ -1,5 +1,7 @@
 <h1 align="center">
   <img src=".github/Group-39.png>
+</h1>
+<h1 align="center">
   Ae-News
   <br>
 </h1>

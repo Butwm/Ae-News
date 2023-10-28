@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./.github/group-39.png">
+  <img src=".github/Group-39.png>
   Ae-News
   <br>
 </h1>

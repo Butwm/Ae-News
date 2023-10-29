@@ -11,7 +11,7 @@
   <a href="#license">License</a>
 </p>
 
-<span> ScreenShot Soon
+<span style="border-radius: 10px; border: 1px solid #121212">
 ![screenshot](.github/design_upload.png)
 </span>
 ## Key Features

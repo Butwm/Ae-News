@@ -24,7 +24,7 @@
 - **Future AI Article Recommendations:** In the future, we plan to integrate an AI article recommendation feature into the Ae-News project. This means that based on your preferences and the news you read, the system will be able to suggest other articles that might be of interest to you.
 
 ## Launching the Project
-Currently, I don't know when the launch will be, but I estimate it for the end of November.
+Currently, I don't know when the launch will be, but I estimate it for the end of December.
 
 **We will be using the API from <a href="https://www.newscatcherapi.com/">Newscatcher</a> (Thanks for contributing)**
 

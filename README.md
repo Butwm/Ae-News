@@ -13,10 +13,6 @@
   <a href="#license">License</a>
 </p>
 
-<span>
-<img src=".github/design_upload.png" alt="Design photo">
-</span>
-
 
 ## Key Features
 - **World News Dashboard:** Ae-News offers a unique dashboard where you can keep track of the latest news and updates from a variety of sources. This dashboard allows you to stay up-to-date with what's happening in the world without having to browse multiple news websites.

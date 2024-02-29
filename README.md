@@ -1,4 +1,4 @@
-# Ae-News - Your All-in-One News Dashboard - BIG UPDATE SOON...
+# Ae-News - Your All-in-One News Dashboard
 
 <p align="center">
   <img src=".github/preview.svg">

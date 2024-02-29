@@ -1,4 +1,4 @@
-# Ae-News - Your All-in-One News Dashboard
+<h1 align="center">Ae-News - Your All-in-One News Dashboard</h1>
 
 <p align="center">
   <img src=".github/preview.svg">

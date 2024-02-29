@@ -1,36 +1,34 @@
-  # BIG UPDATE SOON....
-
-<h1 align="center">
-  Ae-News
-</h1>
-
-<img src=".github/preview.svg">
-
-<h4 align="center">Your All-in-One News Dashboard</h4>
+# Ae-News - Your All-in-One News Dashboard - BIG UPDATE SOON...
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#launching-the-project">Launching the Project</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <img src=".github/preview.svg">
 </p>
 
 
+## Overview
+
+Welcome to Ae-News, your comprehensive news dashboard that keeps you informed about the latest events from around the globe. Whether you're interested in world news, traffic updates, sports, shares or the current weather, Ae-News has got you covered.
+
 ## Key Features
-- **World News Dashboard:** Ae-News offers a unique dashboard where you can keep track of the latest news and updates from a variety of sources. This dashboard allows you to stay up-to-date with what's happening in the world without having to browse multiple news websites.
 
-- **Tranist:** current traffic jams and public transport delays on the roads - for a start only in some cities.
+- **World News Dashboard:** Stay up-to-date with the latest news from various sources without the need to visit multiple websites.
 
-- **Current Weather:** In addition to news, Ae-News also provides you with up-to-date information about the weather in your location. You can quickly find out the temperature, weather forecast, and other relevant data.
+- **Traffic Information:** Get real-time updates on traffic jams and public transport delays in your area.
 
-- **Future AI Article Recommendations:** In the future, we plan to integrate an AI article recommendation feature into the Ae-News project. This means that based on your preferences and the news you read, the system will be able to suggest other articles that might be of interest to you.
-- 
-- **Personalisation:** Introducing Widgets! Now you can customize the entire Home page to suit you. Don't you want to have the first weather? Don't mind to put there the current traffic on the roads in your city!
+- **Current Weather:** Access accurate weather forecasts and temperature updates for your location.
 
-## Launching the Project
-Currently, I don't know when the launch will be, but I estimate it for the end of December.
-## Contributing
-Are you a company that provides a news API? feel free to contact me for cooperation. If you have ideas to improve the Ae-News project, feel free to open a new "Issue" or send a "Pull Request." We look forward to your contributions and cooperation.
+- **Future AI Article Recommendations:** Our AI-powered recommendation system suggests articles based on your preferences and reading habits.
+
+- **Personalization:** Customize your home page with widgets to display the information that matters most to you.
+
+## Project Status
+
+We're actively developing Ae-News and plan to launch it xxxx.
+
+## Get Involved
+
+Do you have a news API or ideas to enhance Ae-News? We'd love to hear from you! Get in touch to discuss collaboration opportunities or contribute directly to the project by opening issues or pull requests.
 
 ## License
-This project is not open-source. 
+      
+Ae-News is not open-source.

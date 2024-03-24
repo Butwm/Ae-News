@@ -1,4 +1,4 @@
-<h1 align="center">Ae-News - Your All-in-One News Dashboard</h1>
+<h1 align="center">Niusly - Your All-in-One News Dashboard</h1>
 
 <p align="center">
   <img src=".github/preview.svg">
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to Ae-News, your comprehensive news dashboard that keeps you informed about the latest events from around the globe. Whether you're interested in world news, traffic updates, sports, shares or the current weather, Ae-News has got you covered.
+Welcome to Niusly, your comprehensive news dashboard that keeps you informed about the latest events from around the globe. Whether you're interested in world news, traffic updates, sports, shares or the current weather, Niusly has got you covered.
 
 ## Key Features
 
@@ -23,12 +23,12 @@ Welcome to Ae-News, your comprehensive news dashboard that keeps you informed ab
 
 ## Project Status
 
-We're actively developing Ae-News and plan to launch it xxxx.
+We're actively developing Niusly and plan to launch it xxxx.
 
 ## Get Involved
 
-Do you have a news API or ideas to enhance Ae-News? We'd love to hear from you! Get in touch to discuss collaboration opportunities or contribute directly to the project by opening issues or pull requests.
+Do you have a news API or ideas to enhance Niusly? We'd love to hear from you! Get in touch to discuss collaboration opportunities or contribute directly to the project by opening issues or pull requests.
 
 ## License
       
-Ae-News is not open-source.
+Niusly is not open-source.

@@ -19,6 +19,8 @@ Welcome to Niusly, your comprehensive news dashboard that keeps you informed abo
 
 - **Future AI Article Recommendations:** Our AI-powered recommendation system suggests articles based on your preferences and reading habits.
 
+- **Custom RSS:** Dont want to use our app? No problem, we are working on our own RSS driven AI that will give you all the information from the world!
+
 - **Personalization:** Customize your home page with widgets to display the information that matters most to you.
 
 ## Project Status
